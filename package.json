@@ -1,0 +1,13 @@
+{
+  "name": "ai-workflow-evaluation",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A grounded drafting workflow with explicit checks for facts, decisions and missing information.",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
